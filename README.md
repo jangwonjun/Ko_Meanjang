@@ -1,4 +1,4 @@
-# komeanjang 
+# Ko_meanjang 
 
 안녕하세요! 저는 K-고3 장원준입니다.
 한국어 문장에서 중요 문장 의미 판단을 하는 komeanjang을 제작하였습니다.
